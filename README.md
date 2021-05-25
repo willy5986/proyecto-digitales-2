@@ -6,11 +6,11 @@ Heillen: Trabaja en la recirculación
 - Descripción estructural
 - Pruebas
 
-Adrian Gonzalez:
+Adrian Gonzalez: Lógica Muxes
 - Descripción conductual Muxes
 - Pruebas
 
-Adrian Avilés:
+Adrian Avilés: Lógica Demuxes
 - Descripción estructural Demuxes
 - Pruebas
 
