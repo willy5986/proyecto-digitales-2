@@ -17,5 +17,5 @@ Adrian Avilés: Lógica Demuxes
 William Omodeo 
 - Descripción estructural Demuxes
 - Descripción estructural muxes
-- Pruebas juntas.
+- Pruebas en cada una.
 
