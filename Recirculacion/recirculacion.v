@@ -22,6 +22,8 @@ module recirculacion(	input clk,
 			output reg [7:0] probador_in1,
 			output reg probador_valid1,
 			output reg [7:0] probador_in2,
+			output reg probador_valid2,
+			output reg [7:0] probador_in3,
 			output reg probador_valid3
 		);
 
