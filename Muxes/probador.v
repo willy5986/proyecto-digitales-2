@@ -13,7 +13,7 @@ module probador (
 		 );
 
    initial begin
-      $dumpfile("demux_L2.vcd");
+      $dumpfile("mux_L2.vcd");
       $dumpvars;
 
       valid0 = 0;
