@@ -2,7 +2,7 @@
 
 (* top =  1  *)
 (* src = "demuxL2.v:1" *)
-module demuxL2(bclk, cclk, valid, data_in, valid_out0, valid_out1, data_out0, data_out1);
+module demuxL2_estructural(bclk, cclk, valid, data_in, valid_out0, valid_out1, data_out0, data_out1);
   (* src = "demuxL2.v:20" *)
   wire [7:0] _00_;
   (* src = "demuxL2.v:20" *)
