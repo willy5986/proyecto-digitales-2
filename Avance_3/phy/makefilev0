@@ -1,0 +1,7 @@
+Objetivo1:
+	yosys phy_rx.v synth.ys
+	sed 's/cond/synth/' phy_rx_synth1.v > phy_rx_synth.v
+	rm phy_rx_synth1.v
+	iverilog -o BancoPrueba.o BancoPrueba.v
+	vvp BancoPrueba.o
+	gtkwave phy.vcd
