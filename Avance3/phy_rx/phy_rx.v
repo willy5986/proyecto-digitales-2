@@ -64,11 +64,11 @@ module phy_rx_cond (
 		    .data_out2 (data_out2),
 		    .data_out3 (data_out3)
 		    );
-   	paralelo_serial_rx paralelo_serial_rx (
-		.clk_32f (clk_32f),
-		.active (active),
-		.data_out (data_hexa),
-		.default_values (default_values)
-	);
+paralelo_serial_rx paralelo_serial_rx (
+		    .clk_32f (clk_32f),
+		    .active (active),
+		    .data_out (data_hexa),
+		    .default_values (default_values)
+		    );
    
 endmodule // phy_rx_cond
