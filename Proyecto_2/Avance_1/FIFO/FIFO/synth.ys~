@@ -1,0 +1,13 @@
+#read_verilog phy.v
+
+hierarchy -check -top dual_ram_cond
+proc; opt; fsm; opt; memory; opt
+techmap; opt
+
+dfflibmap -liberty ./lib/cmos_cells.lib
+abc -liberty ./lib/cmos_cells.lib
+
+clean
+
+write_verilog memory_synth1.v
+

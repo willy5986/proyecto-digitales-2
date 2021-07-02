@@ -1,0 +1,45 @@
+[*]
+[*] GTKWave Analyzer v3.3.98 (w)1999-2019 BSI
+[*] Tue Jun 29 00:20:35 2021
+[*]
+[dumpfile] "/home/adrian/Desktop/PCIE_2/Memory/memory.vcd"
+[dumpfile_mtime] "Tue Jun 29 00:14:47 2021"
+[dumpfile_size] 122426
+[savefile] "/home/adrian/Desktop/PCIE_2/Memory/memory.gtkw"
+[timestart] 0
+[size] 1136 600
+[pos] 204 -198
+*-13.653264 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 207
+[signals_width] 230
+[sst_expanded] 1
+[sst_vpaned_height] 154
+@28
+BancoPruebas.clk
+@200
+-Pone toda la mem en 0
+@28
+BancoPruebas.rst
+@200
+-Datos de entrada
+@24
+BancoPruebas.data_in[9:0]
+@200
+-Permisos de write y read
+@28
+BancoPruebas.wr_enb
+BancoPruebas.rd_enb
+@200
+-Ubicacion de los punteros
+@28
+BancoPruebas.wr_ptr[2:0]
+BancoPruebas.rd_ptr[2:0]
+@200
+-Salida de datos leidos
+@24
+[color] 7
+BancoPruebas.data_out_cond[9:0]
+[color] 5
+BancoPruebas.data_out_synth[9:0]
+[pattern_trace] 1
+[pattern_trace] 0

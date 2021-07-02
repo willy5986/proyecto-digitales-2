@@ -1,0 +1,64 @@
+[*]
+[*] GTKWave Analyzer v3.3.98 (w)1999-2019 BSI
+[*] Fri Jul  2 17:25:23 2021
+[*]
+[dumpfile] "/home/adrian/Desktop/PCIE_2/FIFO/FIFO.vcd"
+[dumpfile_mtime] "Fri Jul  2 17:16:50 2021"
+[dumpfile_size] 139186
+[savefile] "/home/adrian/Desktop/PCIE_2/FIFO/FIFO.gtkw"
+[timestart] 0
+[size] 1202 598
+[pos] -517 -187
+*-14.313861 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 207
+[signals_width] 182
+[sst_expanded] 1
+[sst_vpaned_height] 153
+@28
+BancoPruebas.clk
+@200
+-Señal de reset
+@28
+BancoPruebas.rst
+@200
+-Entrada de datos
+@22
+BancoPruebas.data_in[9:0]
+@200
+-Orden de escritura
+@28
+BancoPruebas.wr_enb
+@200
+-Orden de lectura
+@28
+BancoPruebas.rd_enb
+@200
+-Datos leidos
+@22
+[color] 7
+BancoPruebas.data_out_cond[9:0]
+[color] 5
+BancoPruebas.data_out_synth[9:0]
+@200
+-Señal de empty
+@28
+[color] 7
+BancoPruebas.empty_cond
+[color] 5
+BancoPruebas.empty_synth
+@200
+-Memoria casi vacia
+@28
+[color] 7
+BancoPruebas.alm_empty_cond
+[color] 5
+BancoPruebas.alm_empty_synth
+@200
+-Memoria casi llena
+@28
+[color] 7
+BancoPruebas.alm_full_cond
+[color] 5
+BancoPruebas.alm_full_synth
+[pattern_trace] 1
+[pattern_trace] 0
