@@ -1,0 +1,12 @@
+#read_verilog Todo.v
+
+hierarchy -check -top todo_cond
+proc; opt; fsm; opt; memory; opt
+techmap; opt
+
+dfflibmap -liberty ./lib/cmos_cells.lib
+abc -liberty ./lib/cmos_cells.lib
+
+clean
+
+write_verilog Todo_synth1.v

@@ -1,0 +1,44 @@
+[*]
+[*] GTKWave Analyzer v3.3.86 (w)1999-2017 BSI
+[*] Wed May 26 02:10:22 2021
+[*]
+[dumpfile] "/home/willyomodeo/Documents/Circuitos_digitales2/Demux_cond/demux_L2.vcd"
+[dumpfile_mtime] "Wed May 26 02:06:33 2021"
+[dumpfile_size] 32611
+[savefile] "/home/willyomodeo/Documents/Circuitos_digitales2/Demux_cond/demux_conduc_estruc.gtkw"
+[timestart] 0
+[size] 1366 666
+[pos] -51 -51
+*-12.888434 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 223
+[signals_width] 238
+[sst_expanded] 1
+[sst_vpaned_height] 175
+@22
+BancoPruebas.data_in[7:0]
+[color] 7
+BancoPruebas.data_out0[7:0]
+[color] 5
+BancoPruebas.data_out0_estruL2[7:0]
+[color] 7
+BancoPruebas.data_out1[7:0]
+[color] 5
+BancoPruebas.data_out1_estruL2[7:0]
+[color] 7
+BancoPruebas.data_out_out0[7:0]
+[color] 5
+BancoPruebas.data_out_out0_estruL1[7:0]
+[color] 7
+BancoPruebas.data_out_out1[7:0]
+[color] 5
+BancoPruebas.data_out_out1_estruL1[7:0]
+[color] 7
+BancoPruebas.data_out_out2[7:0]
+[color] 5
+BancoPruebas.data_out_out2_estruL1[7:0]
+[color] 7
+BancoPruebas.data_out_out3[7:0]
+[color] 5
+BancoPruebas.data_out_out3_estruL1[7:0]
+[pattern_trace] 1
+[pattern_trace] 0

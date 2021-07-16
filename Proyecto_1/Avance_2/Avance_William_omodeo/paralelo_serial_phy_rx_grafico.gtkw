@@ -1,0 +1,27 @@
+[*]
+[*] GTKWave Analyzer v3.3.86 (w)1999-2017 BSI
+[*] Wed Jun  2 08:17:27 2021
+[*]
+[dumpfile] "/home/willyomodeo/Documents/Circuitos_digitales2/paralelo_serial_phy_rx/paralelo_serial_phy_rx.vcd"
+[dumpfile_mtime] "Wed Jun  2 08:10:45 2021"
+[dumpfile_size] 1861
+[savefile] "/home/willyomodeo/Documents/Circuitos_digitales2/paralelo_serial_phy_rx/paralelo_serial_phy_rx_grafico.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] 113 -14
+*-11.429260 5360 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 223
+[signals_width] 225
+[sst_expanded] 1
+[sst_vpaned_height] 152
+@28
+BancoPruebas.active
+BancoPruebas.clk_4f
+BancoPruebas.clk_32f
+@22
+[color] 5
+BancoPruebas.data_out_cond[7:0]
+[color] 7
+BancoPruebas.data_out_estru[7:0]
+[pattern_trace] 1
+[pattern_trace] 0

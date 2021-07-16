@@ -1,0 +1,28 @@
+[*]
+[*] GTKWave Analyzer v3.3.86 (w)1999-2017 BSI
+[*] Thu Jul  8 08:13:41 2021
+[*]
+[dumpfile] "/home/willyomodeo/Documents/Circuitos_digitales2/proyecto-digitales-2/Proyecto_2/Avance_2/contador/contador.vcd"
+[dumpfile_mtime] "Tue Jul  6 22:59:55 2021"
+[dumpfile_size] 7078
+[savefile] "/home/willyomodeo/Documents/Circuitos_digitales2/proyecto-digitales-2/Proyecto_2/Avance_2/contador/contadores.gtkw"
+[timestart] 0
+[size] 1366 666
+[pos] -51 -51
+*-14.176047 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 223
+[signals_width] 206
+[sst_expanded] 1
+[sst_vpaned_height] 175
+@28
+BancoPruebas.clk
+BancoPruebas.rst
+@22
+BancoPruebas.data_in[9:0]
+@28
+[color] 7
+BancoPruebas.count[2:0]
+[color] 5
+BancoPruebas.count_estructural[2:0]
+[pattern_trace] 1
+[pattern_trace] 0

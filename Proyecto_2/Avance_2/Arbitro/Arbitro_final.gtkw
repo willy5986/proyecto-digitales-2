@@ -1,0 +1,66 @@
+[*]
+[*] GTKWave Analyzer v3.3.86 (w)1999-2017 BSI
+[*] Thu Jul  8 07:55:16 2021
+[*]
+[dumpfile] "/home/willyomodeo/Documents/Circuitos_digitales2/proyecto-digitales-2/Proyecto_2/Avance_2/Arbitro/FIFO.vcd"
+[dumpfile_mtime] "Thu Jul  8 07:42:57 2021"
+[dumpfile_size] 8009
+[savefile] "/home/willyomodeo/Documents/Circuitos_digitales2/proyecto-digitales-2/Proyecto_2/Avance_2/Arbitro/Arbitro_final.gtkw"
+[timestart] 0
+[size] 1366 666
+[pos] -29 -29
+*-45.281483 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 223
+[signals_width] 166
+[sst_expanded] 1
+[sst_vpaned_height] 175
+@200
+-Entrada_Arbitro
+@28
+BancoPruebas.clk
+@29
+BancoPruebas.rst
+@28
+BancoPruebas.mem_empty_0
+BancoPruebas.mem_empty_1
+BancoPruebas.mem_empty_2
+BancoPruebas.mem_empty_3
+BancoPruebas.mem_alm_full_0
+BancoPruebas.mem_alm_full_1
+BancoPruebas.mem_alm_full_2
+BancoPruebas.mem_alm_full_3
+@22
+BancoPruebas.data_write_0[9:0]
+BancoPruebas.data_write_1[9:0]
+BancoPruebas.data_write_2[9:0]
+BancoPruebas.data_write_3[9:0]
+@200
+-Salidas_Arbitro
+@22
+[color] 7
+BancoPruebas.data_read_0[9:0]
+[color] 7
+BancoPruebas.data_read_1[9:0]
+[color] 7
+BancoPruebas.data_read_2[9:0]
+[color] 7
+BancoPruebas.data_read_3[9:0]
+@28
+[color] 7
+BancoPruebas.read_enable_0
+[color] 7
+BancoPruebas.read_enable_1
+[color] 7
+BancoPruebas.read_enable_2
+[color] 7
+BancoPruebas.read_enable_3
+[color] 7
+BancoPruebas.write_enable_0
+[color] 7
+BancoPruebas.write_enable_1
+[color] 7
+BancoPruebas.write_enable_2
+[color] 7
+BancoPruebas.write_enable_3
+[pattern_trace] 1
+[pattern_trace] 0

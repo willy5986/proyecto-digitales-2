@@ -1,0 +1,50 @@
+[*]
+[*] GTKWave Analyzer v3.3.98 (w)1999-2019 BSI
+[*] Wed Jun  2 20:16:10 2021
+[*]
+[dumpfile] "/home/adrian/Desktop/New_Folder/Serial_Paralelo_phy_tx/Serial_Paralelo_phy_tx.vcd"
+[dumpfile_mtime] "Wed Jun  2 20:06:57 2021"
+[dumpfile_size] 122966
+[savefile] "/home/adrian/Desktop/New_Folder/Serial_Paralelo_phy_tx/Serial_Paralelo_phy_tx.gtkw"
+[timestart] 0
+[size] 1371 600
+[pos] -528 -304
+*-17.592270 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] BancoPruebas.
+[sst_width] 207
+[signals_width] 198
+[sst_expanded] 1
+[sst_vpaned_height] 154
+@28
+BancoPruebas.clk_32f
+@200
+-Entrada serial
+@28
+BancoPruebas.data_in
+@200
+-Entrada paralelizada
+@22
+[color] 7
+BancoPruebas.data_out_cond[7:0]
+[color] 5
+BancoPruebas.data_out_estruct[7:0]
+@200
+-Contador de COM
+@420
+BancoPruebas.SP_cond.BC_counter
+@200
+-Active generado
+@28
+[color] 7
+BancoPruebas.active_cond
+[color] 5
+BancoPruebas.active_estruct
+@200
+-Idle de salida
+@28
+[color] 7
+BancoPruebas.idle_out_cond
+[color] 5
+BancoPruebas.idle_out_estruc
+[pattern_trace] 1
+[pattern_trace] 0

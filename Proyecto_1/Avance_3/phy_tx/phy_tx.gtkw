@@ -1,0 +1,61 @@
+[*]
+[*] GTKWave Analyzer v3.3.86 (w)1999-2017 BSI
+[*] Tue Jun 15 08:16:05 2021
+[*]
+[dumpfile] "/home/willyomodeo/Documents/Circuitos_digitales2/phy_tx_beta/phy_tx.vcd"
+[dumpfile_mtime] "Fri Jun 11 17:38:54 2021"
+[dumpfile_size] 177355
+[savefile] "/home/willyomodeo/Documents/Circuitos_digitales2/phy_tx_beta/phy_tx.gtkw"
+[timestart] 0
+[size] 1366 666
+[pos] -29 -29
+*-15.802292 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 223
+[signals_width] 294
+[sst_expanded] 1
+[sst_vpaned_height] 175
+@29
+BancoPruebas.active
+@28
+BancoPruebas.active_estructural
+BancoPruebas.clk_2f
+BancoPruebas.clk_4f
+BancoPruebas.clk_32f
+BancoPruebas.clk_f
+BancoPruebas.cnt[2:0]
+BancoPruebas.control_data_in
+BancoPruebas.default_values
+@22
+BancoPruebas.data_in0[7:0]
+BancoPruebas.data_in1[7:0]
+BancoPruebas.data_in2[7:0]
+BancoPruebas.data_in3[7:0]
+[color] 7
+BancoPruebas.control_data_out[7:0]
+[color] 5
+BancoPruebas.control_data_out_estructural[7:0]
+[color] 7
+BancoPruebas.data_between[7:0]
+@28
+[color] 7
+BancoPruebas.data_out
+[color] 5
+BancoPruebas.data_out_estructural
+@22
+[color] 7
+BancoPruebas.data_out_l2[7:0]
+@28
+[color] 7
+BancoPruebas.idle_out
+[color] 5
+BancoPruebas.idle_out_estructural
+[color] 7
+BancoPruebas.valid0
+[color] 7
+BancoPruebas.valid1
+[color] 7
+BancoPruebas.valid2
+[color] 7
+BancoPruebas.valid3
+[pattern_trace] 1
+[pattern_trace] 0

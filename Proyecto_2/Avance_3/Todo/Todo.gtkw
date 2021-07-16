@@ -1,0 +1,180 @@
+[*]
+[*] GTKWave Analyzer v3.3.98 (w)1999-2019 BSI
+[*] Thu Jul 15 01:19:16 2021
+[*]
+[dumpfile] "/home/adrian/Desktop/PCIE_2/Todo/Todo.vcd"
+[dumpfile_mtime] "Thu Jul 15 01:02:41 2021"
+[dumpfile_size] 1118897
+[savefile] "/home/adrian/Desktop/PCIE_2/Todo/Todo.gtkw"
+[timestart] 0
+[size] 1674 924
+[pos] -1 -1
+*-16.129650 414400 2000 18200 158000 304000 317900 406100 414400 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 207
+[signals_width] 254
+[sst_expanded] 1
+[sst_vpaned_height] 268
+@28
+BancoPruebas.clk
+@200
+-Datos de entrada con su push
+@22
+BancoPruebas.data_in_FIFOE_0[9:0]
+@28
+BancoPruebas.push_FIFOE_0
+@22
+BancoPruebas.data_in_FIFOE_1[9:0]
+@28
+BancoPruebas.push_FIFOE_1
+@22
+BancoPruebas.data_in_FIFOE_2[9:0]
+@28
+BancoPruebas.push_FIFOE_2
+@22
+BancoPruebas.data_in_FIFOE_3[9:0]
+@28
+BancoPruebas.push_FIFOE_3
+@200
+-Datos de salida con su pop
+@22
+[color] 7
+BancoPruebas.data_out_FIFOS_0[9:0]
+[color] 5
+BancoPruebas.data_out_FIFOS_0_estruc[9:0]
+@28
+BancoPruebas.pop_FIFOS_0
+@22
+[color] 7
+BancoPruebas.data_out_FIFOS_1[9:0]
+[color] 5
+BancoPruebas.data_out_FIFOS_1_estruc[9:0]
+@28
+BancoPruebas.pop_FIFOS_1
+@22
+[color] 7
+BancoPruebas.data_out_FIFOS_2[9:0]
+[color] 5
+BancoPruebas.data_out_FIFOS_2_estruc[9:0]
+@28
+BancoPruebas.pop_FIFOS_2
+@22
+[color] 7
+BancoPruebas.data_out_FIFOS_3[9:0]
+[color] 5
+BancoPruebas.data_out_FIFOS_3_estruc[9:0]
+@28
+BancoPruebas.pop_FIFOS_3
+@200
+-Alm_Full FIFOS's entrada
+@28
+[color] 7
+BancoPruebas.alm_full_FIFOE_0
+[color] 5
+BancoPruebas.alm_full_FIFOE_0_estruc
+[color] 7
+BancoPruebas.alm_full_FIFOE_1
+[color] 5
+BancoPruebas.alm_full_FIFOE_1_estruc
+[color] 7
+BancoPruebas.alm_full_FIFOE_2
+[color] 5
+BancoPruebas.alm_full_FIFOE_2_estruc
+[color] 7
+BancoPruebas.alm_full_FIFOE_3
+[color] 5
+BancoPruebas.alm_full_FIFOE_3_estruc
+@200
+-Alm_Full FIFOS's salida
+@28
+[color] 7
+BancoPruebas.alm_full_FIFOS_0
+[color] 5
+BancoPruebas.alm_full_FIFOS_0_estruc
+[color] 7
+BancoPruebas.alm_full_FIFOS_1
+[color] 5
+BancoPruebas.alm_full_FIFOS_1_estruc
+[color] 7
+BancoPruebas.alm_full_FIFOS_2
+[color] 5
+BancoPruebas.alm_full_FIFOS_2_estruc
+[color] 7
+BancoPruebas.alm_full_FIFOS_3
+[color] 5
+BancoPruebas.alm_full_FIFOS_3_estruc
+@200
+-Empty FIFOS's entrada
+@28
+[color] 7
+BancoPruebas.empty_FIFOE_0
+[color] 5
+BancoPruebas.empty_FIFOE_0_estruc
+[color] 7
+BancoPruebas.empty_FIFOE_1
+[color] 5
+BancoPruebas.empty_FIFOE_1_estruc
+[color] 7
+BancoPruebas.empty_FIFOE_2
+[color] 5
+BancoPruebas.empty_FIFOE_2_estruc
+[color] 7
+BancoPruebas.empty_FIFOE_3
+[color] 5
+BancoPruebas.empty_FIFOE_3_estruc
+@200
+-Empty FIFOS's salida
+@28
+[color] 7
+BancoPruebas.empty_FIFOS_0
+[color] 5
+BancoPruebas.empty_FIFOS_0_estruc
+[color] 7
+BancoPruebas.empty_FIFOS_1
+[color] 5
+BancoPruebas.empty_FIFOS_1_estruc
+[color] 7
+BancoPruebas.empty_FIFOS_2
+[color] 5
+BancoPruebas.empty_FIFOS_2_estruc
+[color] 7
+BancoPruebas.empty_FIFOS_3
+[color] 5
+BancoPruebas.empty_FIFOS_3_estruc
+@200
+-Maquina de Estados:
+-1 : RESET
+-2 : INIT
+-4 : IDLE
+-8 : ACTIVE
+@22
+[color] 7
+BancoPruebas.Estado[3:0]
+[color] 5
+BancoPruebas.Estado_estruc[3:0]
+@200
+-Contador de palabras
+@24
+[color] 7
+BancoPruebas.contador_FIFOS_0[4:0]
+[color] 5
+BancoPruebas.contador_FIFOS_0_estruc[4:0]
+[color] 7
+BancoPruebas.contador_FIFOS_1[4:0]
+[color] 5
+BancoPruebas.contador_FIFOS_1_estruc[4:0]
+[color] 7
+BancoPruebas.contador_FIFOS_2[4:0]
+[color] 5
+BancoPruebas.contador_FIFOS_2_estruc[4:0]
+@25
+[color] 7
+BancoPruebas.contador_FIFOS_3[4:0]
+@24
+[color] 5
+BancoPruebas.contador_FIFOS_3_estruc[4:0]
+@200
+-Modificacion de umbral
+@24
+BancoPruebas.umbral[2:0]
+[pattern_trace] 1
+[pattern_trace] 0

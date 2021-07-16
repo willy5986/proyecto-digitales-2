@@ -1,0 +1,39 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Wed Jun  2 08:18:35 2021
+[*]
+[dumpfile] "/home/bodstark/Desktop/Circuitos_Digitales_II/Tareas/Proyecto1/Avance2/probador.vcd"
+[dumpfile_mtime] "Wed Jun  2 07:49:12 2021"
+[dumpfile_size] 166737
+[savefile] "/home/bodstark/Desktop/Circuitos_Digitales_II/Tareas/Proyecto1/Avance2/Salida.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] 2 114
+*-17.578196 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 263
+[signals_width] 198
+[sst_expanded] 1
+[sst_vpaned_height] 139
+@28
+BancoPruebas.clk_32f
+@29
+BancoPruebas.data_in
+@28
+BancoPruebas.default_values
+[color] 5
+BancoPruebas.active_cond
+[color] 5
+BancoPruebas.valid_cond
+@22
+[color] 5
+BancoPruebas.data_out_cond[7:0]
+@28
+[color] 7
+BancoPruebas.active_estruct
+[color] 7
+BancoPruebas.valid_estruct
+@22
+[color] 7
+BancoPruebas.data_out_estruct[7:0]
+[pattern_trace] 1
+[pattern_trace] 0

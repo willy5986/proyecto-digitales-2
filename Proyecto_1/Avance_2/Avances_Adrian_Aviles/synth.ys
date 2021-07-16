@@ -1,0 +1,13 @@
+#read_verilog Serial_Paralelo_phy_tx.v
+
+hierarchy -check -top Serial_Paralelo_phy_tx
+proc; opt; fsm; opt; memory; opt
+techmap; opt
+
+dfflibmap -liberty ./lib/cmos_cells.lib
+abc -liberty ./lib/cmos_cells.lib
+
+clean
+
+write_verilog Serial_Paralelo_phy_tx_synth1.v
+
